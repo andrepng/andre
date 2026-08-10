@@ -13,6 +13,7 @@ float calcularmedia(aluno a){
 char definirconceito(float media){
     if(media < 6){
         return 'F';
+        printf("digite a nota do 
     }
     else if(media < 7){
         return 'D';

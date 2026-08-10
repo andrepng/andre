@@ -11,7 +11,7 @@ int main() {
     int i, i_maiorpont, i_menorpont; 
     int maior_pont, menor_pont;
     
-    for(i = 0; i < 5; i++){
+    for(i = 0; i < 5; i++) {
         printf("digite o nome do jogador: ");
         scanf("%s", &jogadores[i].nome);
         

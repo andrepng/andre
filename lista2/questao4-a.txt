@@ -1,0 +1,5 @@
+Quantos passos no pior caso a busca binária realiza numa lista ordenada de 512 itens?
+Justifique. Lembrete: a cada passo o espaço de busca é dividido por 2.
+
+No pior caso em uma lista de 512 itens, é preciso de 9 passos para realizar a busca binária.
+Por que a busca binária sempre divide o total por 2, e 512 pode ser dividido 9 vezes.

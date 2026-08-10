@@ -1,0 +1,3 @@
+b)Ordene do mais rápido ao mais lento: O(n2), O(log n), O(n), O(1).
+
+mais rápido - O(1) - O(log n) - O(n) - O(n2) - mais lento

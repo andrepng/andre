@@ -1,0 +1,10 @@
+a)Toda função recursiva precisa de dois ingredientes obrigatórios. Quais são eles? Ex-
+plique o papel de cada um.
+
+Toda função recursiva possui caso-base e caso recursivo. 
+
+O caso-base é o caso mais simples, onde a função não se
+chama de novo e devolve uma resposta direta. É a condição de parada.
+
+O caso recursivo é onde a função chama a si mesma com um
+problema menor — se aproximando do caso-base a cada chamada.

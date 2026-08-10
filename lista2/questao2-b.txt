@@ -1,0 +1,11 @@
+b)Faça o teste de mesa completo de fatorial(4), mostrando as duas fases:
+• Descida: as chamadas recursivas até o caso-base.
+• Subida: os retornos com os valores calculados.
+
+• Descida: fatorial(4) -> fatorial(3) -> fatorial(2) -> fatorial(1) -> fatorial(0)
+
+• Subida: fatorial(4) = 4 * fatorial(3) -> 24
+           fatorial(3) = 3 * fatorial(2) -> 6
+           fatorial(2) = 2 * fatorial(1) -> 2
+           fatorial(1) = 1 * fatorial(0) -> 1
+           fatorial(0) = 1 (caso-base)
